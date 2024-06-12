@@ -1,7 +1,8 @@
 html {
     background: url(ФОН/1.gif) no-repeat;
 
-    background-size: 100%;
+    background-size: cover;
+    
     }
 
 body {
