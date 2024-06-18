@@ -1,8 +1,7 @@
 html {
     background: url(ФОН/1.gif) no-repeat;
-
     background-size: cover;
-    
+    background-attachment: fixed
     }
 
 body {
@@ -20,7 +19,6 @@ body {
    display: flex;
   justify-content: center;
   gap: 60px;
-  
 }
 
 .nav-link {
@@ -131,7 +129,7 @@ body {
      }
      .nav-list{
         flex-direction: column;
-        gap: 30px;
+        gap: 50px;
      }
 
     .burger{
